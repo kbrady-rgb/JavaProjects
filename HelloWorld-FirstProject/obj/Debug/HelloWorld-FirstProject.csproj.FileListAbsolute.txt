@@ -1,0 +1,29 @@
+C:\Users\Kabrina\source\repos\HelloWorld-FirstProject\HelloWorld-FirstProject\bin\Debug\HelloWorld-FirstProject.exe.config
+C:\Users\Kabrina\source\repos\HelloWorld-FirstProject\HelloWorld-FirstProject\bin\Debug\HelloWorld-FirstProject.exe
+C:\Users\Kabrina\source\repos\HelloWorld-FirstProject\HelloWorld-FirstProject\bin\Debug\HelloWorld-FirstProject.pdb
+C:\Users\Kabrina\source\repos\HelloWorld-FirstProject\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.csprojAssemblyReference.cache
+C:\Users\Kabrina\source\repos\HelloWorld-FirstProject\HelloWorld-FirstProject\obj\Debug\HelloWorld_FirstProject.HelloWorldForm.resources
+C:\Users\Kabrina\source\repos\HelloWorld-FirstProject\HelloWorld-FirstProject\obj\Debug\HelloWorld_FirstProject.Properties.Resources.resources
+C:\Users\Kabrina\source\repos\HelloWorld-FirstProject\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.csproj.GenerateResource.cache
+C:\Users\Kabrina\source\repos\HelloWorld-FirstProject\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\source\repos\HelloWorld-FirstProject\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.exe
+C:\Users\Kabrina\source\repos\HelloWorld-FirstProject\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.pdb
+C:\Users\Kabrina\Documents\C#\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\bin\Debug\HelloWorld-FirstProject.exe.config
+C:\Users\Kabrina\Documents\C#\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\bin\Debug\HelloWorld-FirstProject.exe
+C:\Users\Kabrina\Documents\C#\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\bin\Debug\HelloWorld-FirstProject.pdb
+C:\Users\Kabrina\Documents\C#\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld_FirstProject.HelloWorldForm.resources
+C:\Users\Kabrina\Documents\C#\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld_FirstProject.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.exe
+C:\Users\Kabrina\Documents\C#\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 1\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\bin\Debug\HelloWorld-FirstProject.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 1\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\bin\Debug\HelloWorld-FirstProject.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 1\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\bin\Debug\HelloWorld-FirstProject.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 1\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 1\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld_FirstProject.HelloWorldForm.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 1\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld_FirstProject.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 1\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 1\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 1\KabrinaBrady_Assignment1_HelloWorld\HelloWorld-FirstProject\obj\Debug\HelloWorld-FirstProject.pdb
